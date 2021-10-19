@@ -1,6 +1,6 @@
-# Jubilee-Austen
+# JUBILEE AUSTEN
 
-This is a Skillcrush project. 
+This is a [Skillcrush](https://skillcrush.com/) project. 
 
 # ABOUT
 
